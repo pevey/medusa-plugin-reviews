@@ -1,8 +1,8 @@
 .npmignore
 node_modules
-./api
-./migrations
-./models
-./repositories
-./services
-./subscribers
+/api
+/migrations
+/models
+/repositories
+/services
+/subscribers
